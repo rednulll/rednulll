@@ -28,6 +28,20 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 
 ---
 
+### 🎯 Skill Proficiency
+
+**Python & Data Science**
+![](https://progress-bar.dev/85/?title=Python&width=500&color=3776ab)
+
+**Deep Learning & PyTorch**
+![](https://progress-bar.dev/80/?title=PyTorch&width=500&color=ee4c2c)
+
+**Machine Learning (Scikit-Learn)**
+![](https://progress-bar.dev/75/?title=Scikit-Learn&width=500&color=f7931e)
+
+**SQL & Database**
+![](https://progress-bar.dev/70/?title=MySQL&width=500&color=00758f)
+
 ### 🌐 Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com)
