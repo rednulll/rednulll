@@ -42,6 +42,19 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 **SQL & Database**
 ![](https://progress-bar.dev/70/?title=MySQL&width=500&color=00758f)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednull1&layout=donut&theme=tokyonight&hide_border=true" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME_WAKATIME_KAMU&theme=tokyonight&layout=compact" width="420" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rednull1/rednull1/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rednull1/rednull1/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 🌐 Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com)
