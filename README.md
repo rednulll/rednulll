@@ -43,7 +43,7 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 ![](https://progress-bar.dev/70/?title=MySQL&width=500&color=00758f)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednull1l&layout=donut&theme=tokyonight&hide_border=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednulll&layout=donut&theme=tokyonight&hide_border=true" width="420" />
 </p>
 
 <p align="center">
