@@ -40,7 +40,7 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 ![](https://progress-bar.dev/75/?title=Scikit-Learn&width=500&color=f7931e)
 
 **SQL & Database**
-![](https://progress-bar.dev/70/?title=MySQL&width=500&color=00758f)
+![](https://progress-bar.dev/0/?title=MySQL&width=500&color=00758f)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednulll&layout=donut&theme=tokyonight&hide_border=true" width="420" />
