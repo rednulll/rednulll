@@ -29,6 +29,15 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 
 ---
 
+### Competitions 
+| **Projects** | **Concise Description** | **Stacks** | 
+| :--- | :---: | :--- | 
+| [Numpy-ANN](https://github.com/rednulll/Numpy-ANN) | A pure NumPy Artificial Neural Network (ANN) language model built from scratch—featuring manual backpropagation, custom embeddings, and sliding-window text generation without deep learning frameworks. | Python, Numpy, Pandas |
+| [Numpy-RNN](https://github.com/rednulll/Numpy-RNN) | A Recurrent Neural Network (RNN) built completely from scratch in pure NumPy—featuring manual Backpropagation Through Time (BPTT), gradient clipping, temperature/top-k autoregressive generation, and JSON checkpointing without external deep learning frameworks. | Python, Numpy, Re |
+| [Numpy-LSTM](https://github.com/rednulll/Numpy-LSTM) | A custom Long Short-Term Memory (LSTM) network built 100% from scratch in pure NumPy—featuring manual Backpropagation Through Time (BPTT) across 4 memory gates, dual cell/hidden state persistence, gradient clipping, temperature/top-k autoregressive text generation, and complete JSON weight serialization. | Python, Numpy |
+| [PyTorch-GRU](https://github.com/rednulll/PyTorch-GRU) | A PyTorch-accelerated Gated Recurrent Unit (GRU) built completely without autograd or torch.nn—featuring CUDA VRAM batch parallelization, manual 2-gate Backpropagation Through Time (BPTT), gradient clamping, temperature/top-k text generation, and full JSON checkpointing | Python, PyTorch, Numpy |
+
+---
 ### 🎯 Skill Proficiency
 
 **Python & Data Science**
@@ -47,3 +56,4 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com)
+[<img src="">]
