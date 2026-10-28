@@ -41,7 +41,7 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 ### 🎯 Skill Proficiency
 
 **Python & Data Science**
-![](https://progress-bar.dev/85/?title=Python&width=500&color=3776ab)
+<img src="https://progress-bar.dev/85/?title=Python&width=500&color=3776ab">
 
 **Deep Learning & PyTorch**
 ![](https://progress-bar.dev/80/?title=PyTorch&width=500&color=ee4c2c)
