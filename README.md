@@ -29,7 +29,7 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 
 ---
 
-### Competitions 
+### Project Repositories 
 | **Projects** | **Concise Description** | **Stacks** | 
 | :--- | :---: | :--- | 
 | [Numpy-ANN](https://github.com/rednulll/Numpy-ANN) | A pure NumPy Artificial Neural Network (ANN) language model built from scratch—featuring manual backpropagation, custom embeddings, and sliding-window text generation without deep learning frameworks. | Python, Numpy, Pandas |
