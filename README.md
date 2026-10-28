@@ -40,12 +40,7 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 **Machine Learning (Scikit-Learn)**
 ![](https://progress-bar.dev/75/?title=Scikit-Learn&width=500&color=f7931e)
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rednulll/rednulll/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rednulll/rednulll/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN2MHI3MTA0OTdzcnd3dnRjbWI1OTVxc2F6OWN2YWdsNHJ2bWRwMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xT0xeifUCe6qj1zeYE/giphy.gif) 
 
 ### 🌐 Connect with Me
 
