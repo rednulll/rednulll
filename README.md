@@ -40,16 +40,7 @@ I'm a Data Science student based in Bandung, passionate about building custom de
 **Machine Learning (Scikit-Learn)**
 ![](https://progress-bar.dev/75/?title=Scikit-Learn&width=500&color=f7931e)
 
-**SQL & Database**
-![](https://progress-bar.dev/0/?title=MySQL&width=500&color=00758f)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednulll&layout=donut&theme=tokyonight&hide_border=true" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rednulll&theme=tokyonight&layout=compact" width="420" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rednulll/rednulll/output/github-contribution-grid-snake-dark.svg">
