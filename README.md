@@ -1,4 +1,4 @@
-# Hi there, I'm Raditya! 👋
+<img src="./assets/github banner.jpg" width="100%" alt="Header Banner">
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=500&lines=Deep+Learning+%26+Neural+Network+Enthusiast;Data+Science+Student+%40+Telkom+University" alt="Typing SVG" />
